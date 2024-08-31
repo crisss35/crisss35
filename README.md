@@ -1,4 +1,3 @@
-
 <h1 align="center">Hola, soy <a href="https://github.com/Aryagm">Cristhoper Vargas<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
