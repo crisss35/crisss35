@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,bootstrap,tailwindcss,html,css,git,github">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,vuejs,mysql,bootstrap,tailwindcss,html,css,git,github">
   </a>  
 </p>
  
